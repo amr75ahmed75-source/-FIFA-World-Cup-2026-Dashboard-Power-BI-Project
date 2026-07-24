@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="Screenshot 2026-07-24 103909" src="https://github.com/user-attachments/assets/ff5e9ed1-bb21-4da1-ba1a-67e52b6452db" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-24 103857" src="https://github.com/user-attachments/assets/e11f6de3-bee4-48e5-84f8-7fefb9c97a81" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-24 103842" src="https://github.com/user-attachments/assets/e4ae57f3-329c-4f1c-8e88-6ab2e0533e5e" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-24 103804" src="https://github.com/user-attachments/assets/4dfea3ca-2fcd-4f69-a016-16dcbbf3d1fb" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-24 103732" src="https://github.com/user-attachments/assets/d4161313-9dbc-4900-a518-1f8750f1b534" />
 # -FIFA-World-Cup-2026-Dashboard-Power-BI-Project
 🚀 FIFA World Cup 2026 Dashboard | Power BI Project
 
