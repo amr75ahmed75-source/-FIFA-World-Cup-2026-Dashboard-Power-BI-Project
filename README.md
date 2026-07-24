@@ -4,7 +4,7 @@
 <img width="1920" height="1080" alt="Screenshot 2026-07-24 103804" src="https://github.com/user-attachments/assets/4dfea3ca-2fcd-4f69-a016-16dcbbf3d1fb" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-24 103732" src="https://github.com/user-attachments/assets/d4161313-9dbc-4900-a518-1f8750f1b534" />
 # -FIFA-World-Cup-2026-Dashboard-Power-BI-Project
-🚀 FIFA World Cup 2026 Dashboard | Power BI Project
+🚀 FIFA World Cup 2026 Dashboard | Power BI Project 
 
 Excited to share one of my latest Power BI projects!
 
